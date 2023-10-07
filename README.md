@@ -17,7 +17,7 @@ This **Data Wrangling Project** involves deciding about a problem of interest an
 
 > Now the first dataset was a **direct download**, but the data proofed incomplete and the identifier columns of the datasets did not match as they supposedly should have. This was unfortunate as the **advanced selenium | beautifulsoup webscrape** of the second dataset, resulted in very clean and complete data with an optimal timespan. The resulting steps of the project where carried out as a proof of concept.
 
-> A continuance of this project should be a merger with a high quality first dataset, which should be gathered with the result in mind of achieving the highest quality data, a complete and clean dataset of the **NBA´s Injury List, in primary regards to Ankle Sprains**. 
+> A continuance of this project should be a merger with a high quality first dataset, which should be gathered with the result in mind of achieving the highest quality data, a complete and clean dataset of the **NBA´s Injury List, in primary regards to Ankle Strains**. 
 
 
 ## Structure and features of this showcase
