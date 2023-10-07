@@ -22,7 +22,7 @@ This **Data Wrangling Project** involves deciding about a problem of interest an
 
 ## Structure and features of this showcase
 
-- **Research-backed Problem statement:**  **Are low top shoes player less injury prown to ankle strains?** - Please refer to jupyter notebook for research references
+- **Research-backed Problem Statement:**  **Are low top shoes player less injury prown to ankle strains?** - Please refer to jupyter notebook for research references
 - **Data Gathering :** Dataset 1 is a direct download from [kaggle](https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023/), dataset 2 is a web scrape with **Selenium** and **Beautifulsoup** from [kixstats.com](https://kixstats.com)
 - **Data Wrangling** Modifying and cleaning the datasets according to tidiness and quality issues, with subsequent merging of the datasets
 - **Data Visualisations** A short section that interprets the master dataset by visualizing features of interest. A preliminary conclusion is drawn, on the basis of the specific matplotlib visualisations
